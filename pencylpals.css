@@ -1,0 +1,51 @@
+
+.title{
+
+    background-color: rgb(254, 188, 214);
+    color: black;
+    display: inline-block;
+    width: 100%;
+    padding: 40px;
+    text-align: center;
+}
+h1{
+    
+    text-align: center;
+    background-color:rgb(254, 188, 214);
+}
+.greetings{
+display: inline-block;
+text-align: center;
+width: 100%;
+padding: 45px;
+}
+.greetingtitle{
+
+    display: inline;
+}
+.greetingimg{
+
+    left: 30px;
+}
+p{
+
+    text-align: center;
+    padding: 35px;
+}
+li{
+
+display: inline;
+cursor: pointer;
+
+}
+li:hover{
+    color: palevioletred;
+}
+
+.footer{
+    text-align: center;
+    color: wheat;
+    padding: 30px;
+    background-color: rgb(225, 70, 143);
+    width: 100%;
+}
